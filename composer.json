@@ -1,5 +1,11 @@
 {
 	"require": {
-		"twig/twig": "1.*"
+		"wujunze/php-cli-color": "^2.4"
+	},
+	"autoload":{
+		"psr-4": {
+			"Nfq\\": "Nfq/"
+		}
 	}
+
 }
