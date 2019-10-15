@@ -1,4 +1,6 @@
 {
+	"name": "lbutkus/phpnamudarbai1",
+	"description": "Pirmoji PHP namu darbu uzduotis: autoloaderiai ir kintamuju tipai",
 	"require": {
 		"wujunze/php-cli-color": "^2.4"
 	},

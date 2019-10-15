@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "004c02a383aea34481dfc63afce2c6f4",
+    "content-hash": "4495aff187fa8fbba33cb26d5e1429bf",
     "packages": [
         {
             "name": "wujunze/php-cli-color",
